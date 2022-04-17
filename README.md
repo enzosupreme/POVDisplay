@@ -1,1 +1,1 @@
-Experimenting with POV concept. Basic and sloppy POV project using circuit python. I built this for my niece, Riley.
+Experimenting with POV concept. Basic and sloppy POV project using circuit python. I built this for my niece, Riley.![PXL_20220227_130749383 _exported_1646716224778](https://user-images.githubusercontent.com/38119453/163719858-7a411fe0-2304-42a5-aa47-666bc65bf2f4.gif)
